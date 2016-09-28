@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Ball Demo Game.CSharp.Plugins", "The Ball Demo Game.CSharp.Plugins.csproj", "{52201EE5-F4DD-20C9-D6EB-97568F4424FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Ball Demo Game.CSharp.Editor", "The Ball Demo Game.CSharp.Editor.csproj", "{B9FB0019-54F7-C4E3-6C8E-A83C00D7332E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52201EE5-F4DD-20C9-D6EB-97568F4424FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52201EE5-F4DD-20C9-D6EB-97568F4424FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52201EE5-F4DD-20C9-D6EB-97568F4424FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52201EE5-F4DD-20C9-D6EB-97568F4424FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FB0019-54F7-C4E3-6C8E-A83C00D7332E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FB0019-54F7-C4E3-6C8E-A83C00D7332E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FB0019-54F7-C4E3-6C8E-A83C00D7332E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FB0019-54F7-C4E3-6C8E-A83C00D7332E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
